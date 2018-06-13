@@ -4,6 +4,9 @@ I built this blog app to learn how to use the react-router library. It makes RES
 
 <img src="BlogAppGif.gif" width="400">
 
+## Demo
+https://aqueous-hollows-61571.herokuapp.com/
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
@@ -25,3 +28,6 @@ Click [here](https://github.com/rdoner/ReactReduxForm.git) then download the .zi
 > npm install
 > npm start
 ```
+
+## Author
+Ryan Doner
